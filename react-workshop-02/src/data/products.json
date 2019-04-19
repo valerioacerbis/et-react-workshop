@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "slug": "citrus-beer",
+    "name": "Citrus Beer",
+    "quantity": "330ml",
+    "alcohol": "9.5%",
+    "rating": 4,
+    "image": "https://www.beergium.com/7190-big_default/dugges-interboro-33cl.jpg"
+  },
+  {
+    "id": 2,
+    "slug": "coco-nut",
+    "name": "Coco Nut",
+    "quantity": "330ml",
+    "alcohol": "6.2%",
+    "rating": 3,
+    "image": "https://www.beergium.com/7432-big_default/dugges-six-ways-coco-nut-33cl.jpg"
+  },
+  {
+    "id": 3,
+    "slug": "sun-mosaic",
+    "name": "Sun Mosaic",
+    "quantity": "330ml",
+    "alcohol": "6.2%",
+    "rating": 2,
+    "image": "https://www.beergium.com/7176-big_default/dugges-sun-mosaic-33cl.jpg"
+  },
+  {
+    "id": 4,
+    "slug": "boxed-idjit",
+    "name": "Boxed Idjit",
+    "quantity": "330ml",
+    "alcohol": "6.2%",
+    "rating": 4,
+    "image": "https://www.beergium.com/7425-big_default/dugges-boxed-idjit-33cl.jpg"
+  }
+]

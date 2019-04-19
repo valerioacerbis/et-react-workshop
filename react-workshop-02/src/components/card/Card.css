@@ -1,0 +1,52 @@
+.card {
+  position: relative;
+  vertical-align: top;
+  display: inline-block;
+  height: auto;
+  width: 280px;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 6px 20px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.card__header {
+}
+
+.card__image {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+.card__image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.card__list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.card__item {
+  margin-top: 10px;
+  opacity: 0.5;
+}
+
+.rating {
+  position: relative;
+  overflow: hidden;
+  margin-top: 4px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.rating > div {
+  position: relative;
+  height: 4px;
+  background: #fcde00;
+  transition: all 0.5s;
+}

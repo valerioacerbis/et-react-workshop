@@ -1,0 +1,27 @@
+.navigation {
+  text-align: center;
+}
+
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.navigation ul li {
+  display: inline-block;
+  color: #fff;
+}
+
+.navigation ul li a {
+  display: block;
+  color: #fff;
+  margin: 0 4px;
+  padding: 18px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navigation ul li a:hover {
+  color: #fcde00;
+}

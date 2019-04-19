@@ -1,0 +1,41 @@
+.pagination-progress {
+  position: relative;
+  overflow: hidden;
+  margin-top: 4px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.pagination-progress > div {
+  position: relative;
+  height: 8px;
+  background: #fcde00;
+  transition: all 0.5s;
+}
+
+.pagination__button {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top: 40%;
+  border-radius: 50%;
+  background: none;
+  color: #fcde00;
+  line-height: 60px;
+  font-size: 20px;
+  border: 2px solid #fcde00;
+}
+
+.pagination__button:hover {
+  background: #fcde00;
+  color: #111;
+}
+
+.pagination__button--prev {
+  left: 20px;
+}
+
+.pagination__button--next {
+  right: 20px;
+}

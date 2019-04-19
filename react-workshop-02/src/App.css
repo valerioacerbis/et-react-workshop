@@ -1,0 +1,13 @@
+body {
+  background: #111;
+  overflow-x: hidden;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+.question {
+  color: #fcde00;
+  font-size: 300px;
+  line-height: 0px;
+  font-weight: bold;
+}

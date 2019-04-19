@@ -1,0 +1,30 @@
+.counter__button {
+  padding: 10px 20px;
+  background: #fcde00;
+  border: 0;
+  font-weight: bold;
+  border-radius: 20px;
+  cursor: pointer;
+  margin: 0 4px 20px 4px;
+}
+
+.counter__button--primary {
+  background: #00d7b5;
+}
+
+.counter__button--secondary {
+  background: #ff3f4c;
+}
+
+.counter__text {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  background: #fcde00;
+  color: #111;
+  border-radius: 50%;
+  font-weight: bold;
+}
